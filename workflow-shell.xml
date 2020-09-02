@@ -15,11 +15,12 @@
        <file>/user/user05/script/sample.sh</file>
      </shell>
      <ok to="end"/>
-     <error to="fail"/>
+     <error to="kill_job"/>
    </action>
 
-   <kill name="fail">
-     <message>Shell action failed, error message[${wf:errorMessage(wf:lastErrorNode())}]</message>
+   <kill name = "kill_job">
+      <message>Job failed</message>
    </kill>
+
  <end name="end"/>
 </workflow-app>
