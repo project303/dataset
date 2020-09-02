@@ -1,4 +1,4 @@
-<workflow-app xmlns="uri:oozie:workflow:1.0" name="shell-wf">
+<workflow-app xmlns="uri:oozie:workflow:1.0" name="sample-shell-wf">
  <start to="shell-node"/>
 
    <action name="shell-node">
@@ -12,7 +12,7 @@
          </property>
        </configuration>
        <exec>sample.sh</exec>
-       <file>/user/root/sample.sh</file>
+       <file>/user/user05/script/sample.sh</file>
      </shell>
      <ok to="end"/>
      <error to="fail"/>
