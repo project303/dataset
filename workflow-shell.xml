@@ -12,7 +12,7 @@
          </property>
        </configuration>
        <exec>sample.sh</exec>
-       <file>/user/user05/script/sample.sh</file>
+       <file>hdfs://yavam-001.labs247.com:8020/user/user05/script/sample.sh</file>
      </shell>
      <ok to="end"/>
      <error to="kill_job"/>
