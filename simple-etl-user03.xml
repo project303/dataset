@@ -31,7 +31,7 @@
        </configuration>
        <exec>external_table-user03.sh</exec>
        <env-var>HADOOP_USER_NAME=${wf:user()}</env-var>
-       <file>/user/user02/script/external_table-user03.sh</file>
+       <file>/user/user03/script/external_table-user03.sh</file>
      </shell>
      <ok to="end"/>
      <error to="kill_job"/>
