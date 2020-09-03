@@ -1,4 +1,4 @@
-USE train05;
+USE user05;
 
 DROP TABLE IF EXISTS oozie_data;
 
