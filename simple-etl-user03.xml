@@ -4,7 +4,7 @@
    <action name="download-data-node">
      <shell xmlns="uri:oozie:shell-action:1.0">
        <job-tracker>yavam-001.labs247.com:8050</job-tracker>
-       <name-node>hdfs://nn:8020</name-node>
+       <name-node>hdfs://yavam-002.labs247.com:8020</name-node>
        <configuration>
          <property>
            <name>mapred.job.queue.name</name>
@@ -22,7 +22,7 @@
    <action name="external-table-node">
      <shell xmlns="uri:oozie:shell-action:1.0">
        <job-tracker>yavam-001.labs247.com:8050</job-tracker>
-       <name-node>hdfs://nn:8020</name-node>
+       <name-node>hdfs://yavam-002.labs247.com:8020</name-node>
        <configuration>
          <property>
            <name>mapred.job.queue.name</name>
