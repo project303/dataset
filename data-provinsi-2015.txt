@@ -1,4 +1,4 @@
-provinsi	curah-hujan	hari-hujan	kota-m	kota-n	desa-m	desa-n	pengangguran
+provinsi	curah_hujan	hari_hujan	kota_m	kota_n	desa_m	desa_n	pengangguran
 Aceh	1575	146	466355	529945	395136	260183	9.93
 Sumatera Utara	975.9	105	416073	453609	413087	269407	6.71
 Sumatera Barat	3548	185	509609	578890	447944	319143	6.89
