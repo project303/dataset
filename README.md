@@ -5,7 +5,7 @@ Kumpulan dataset yang dapat digunakan untuk memulai data engineering, data analy
 ### [1. covid19_data.csv](https://github.com/project303/dataset/blob/master/covid19_data.csv)
 Data mengenai status penyebaran covid19 di berbagai kota. 
 - Format file     : cvs
-- Jumlah record   : 1200
+- Jumlah record   : 98252
 - Jumlah atribut  : 8 field
 - Atribut         : SNo, ObservationDate, Province/State, Country/Region, Last Update, Confirmed, Deaths, Recovered
 - Download        : [download](https://raw.githubusercontent.com/project303/dataset/master/covid19_data.csv)
