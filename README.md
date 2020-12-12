@@ -26,3 +26,11 @@ Contoh data dengan format yang kompleks, karena melibatkan array dan map
 - Atribut         : nama, city, gender-age, skill, experience 
 - Download        : [download](https://raw.githubusercontent.com/project303/dataset/master/employee.csv)
 
+### [4. data01.csv](https://github.com/project303/dataset/blob/master/data01.csv)  dan [data02.csv](https://github.com/project303/dataset/blob/master/data02.csv)
+List penumpang kapal Titanic 
+- Format file     : pipe separated
+- Jumlah record   : 250 + 250
+- Jumlah atribut  : 8 field
+- Atribut         : PassengerId,Country,Firstname,Lastname,Sex,Age,Category,Survived
+- Download        : [data01](https://raw.githubusercontent.com/project303/dataset/master/data01.csv) [data02](https://raw.githubusercontent.com/project303/dataset/master/data02.csv)
+
