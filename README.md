@@ -22,3 +22,8 @@ Kolom:
 | Confirmed             | Jumlah orang terkonfirmasi Covid19                  |
 | Deaths                | Jumlah orang meninggal                              |
 | Recovered             | Jumlah orang yang sembuh                            |
+
+| Syntax             | Description |
+| ------------------ | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
