@@ -9,4 +9,4 @@ Kolom:
 - Jumlah record   : 1200
 - Jumlah atribut  : 8 field
 - Atribut         : SNo, ObservationDate, Province/State, Country/Region, Last Update, Confirmed, Deaths, Recovered
-- Link            : link
+- Link            : [link](https://github.com/project303/YavaCE-Cookbook/blob/master/Persiapan%20Hardware.md)
