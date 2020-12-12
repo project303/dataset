@@ -5,7 +5,7 @@ Kumpulan dataset yang dapat digunakan untuk memulai data engineering, data analy
 ### 1. covid19_data.csv
 Data mengenai status penyebaran covid19 di berbagai kota. 
 Kolom:
-| 'Informasi             '| Deskripsi                                           |
+| `Informasi             `| Deskripsi                                           |
 | --------------------- | --------------------------------------------------- |
 | Format file           | comma separated value                               |
 | Jumlah record         | 1200                                                |
