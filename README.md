@@ -2,7 +2,7 @@
 
 Kumpulan dataset yang dapat digunakan untuk memulai data engineering, data analytics dan data science
 
-#### covid19_data.csv
+### 1. covid19_data.csv
 Data mengenai status penyebaran covid19 di berbagai kota. 
 Kolom:
 - SNo,
