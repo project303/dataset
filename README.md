@@ -17,3 +17,12 @@ Data mengenai beberapa kondisi propinsi di Indonesia tahun 2015, seperti curah h
 - Jumlah atribut  : 8 field
 - Atribut         : province, rainfall, rainy_day, expenses_food_urban, expenses_other_urban, expenses_food_rural, expense_other_rural, unemployment, time_zone, island
 - Download        : [download](https://raw.githubusercontent.com/project303/dataset/master/data-province-2015.cvs)
+
+### [3. employee.csv](https://github.com/project303/dataset/blob/master/employee.csv)
+Contoh data dengan format yang kompleks, karena melibatkan array dan map 
+- Format file     : pipe separated
+- Jumlah record   : 4
+- Jumlah atribut  : 5 field
+- Atribut         : nama, city, gender-age, skill, experience 
+- Download        : [download](https://raw.githubusercontent.com/project303/dataset/master/employee.csv)
+
