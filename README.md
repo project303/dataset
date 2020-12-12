@@ -11,10 +11,9 @@ Kolom:
 - Country/Region,
 - Last Update,
 - Confirmed,
-- Deaths,
-- Recovered
+- Deaths,           covered
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Kolom             | Deskripsi                     |
+| ----------------- | ----------------------------- |
+| SNo               | Nomer urut                    |
+| ObservationDate   | Tanggal                       |
