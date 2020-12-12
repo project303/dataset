@@ -28,7 +28,7 @@ Kolom:
 | Header      | Title       |
 | Paragraph   | Text        |
 
-|   	|   	|   	|   	|   	|
+|<div style="width:290px">property</div>   	|   	|   	|   	|   	|
 |---	|---	|---	|---	|---	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
