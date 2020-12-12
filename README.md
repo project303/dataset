@@ -13,3 +13,8 @@ Kolom:
 - Confirmed,
 - Deaths,
 - Recovered
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
