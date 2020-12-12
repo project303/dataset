@@ -4,7 +4,8 @@ Kumpulan dataset yang dapat digunakan untuk memulai data engineering, data analy
 
 ### 1. covid19_data.csv
 Data mengenai status penyebaran covid19 di berbagai kota. 
-Kolom:
+[download](https://raw.githubusercontent.com/project303/dataset/master/covid19_data.csv)
+[link](https://github.com/project303/dataset/blob/master/covid19_data.csv)
 - Format file     : cvs
 - Jumlah record   : 1200
 - Jumlah atribut  : 8 field
