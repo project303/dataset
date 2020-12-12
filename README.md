@@ -1,6 +1,6 @@
 # dataset
 
-Kumpulan dataset yang dapat digunakan untuk memulai data engineering, data analytics dan data science
+Kumpulan dataset yang dapat digunakan untuk memulai data engineering, data analytics dan data science. Dataset diambil dari berbagai sumber dan sebagian sudah dimodifikasi untuk keperluan pembelajaran
 
 ### [1. covid19_data.csv](https://github.com/project303/dataset/blob/master/covid19_data.csv)
 Data mengenai status penyebaran covid19 di berbagai kota. 
